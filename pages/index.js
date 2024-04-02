@@ -56,7 +56,7 @@ const Home = () => {
           Your browser does not support the audio element.
         </audio>
         <div className="bottom-0 bg-[#1b1c24] h-[2rem] w-full border-0 border-t-[1px] border-t-gray-800 flex items-center justify-center font-bold z">
-          <h2>© 2024 اكرم التكريتي، جميع الحقوق محفوظة.</h2>
+          <h2>&quot 2024 اكرم التكريتي، جميع الحقوق محفوظة.</h2>
         </div>
       </section>
     </>
