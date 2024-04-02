@@ -11,7 +11,7 @@ const Location = () => {
         <div className="grid grid-cols-3 gap-4 p-8">
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-1.jpg"
+              src="./place-1.jpg"
               width={500}
               height={500}
               alt="Place 1"
@@ -22,7 +22,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-2.png"
+              src="./place-2.png"
               width={500}
               height={500}
               alt="Place 2"
@@ -33,7 +33,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-3.png"
+              src="./place-3.png"
               width={500}
               height={500}
               alt="Place 3"
@@ -44,7 +44,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-4.png"
+              src="./place-4.png"
               width={500}
               height={500}
               alt="Place 4"
@@ -55,7 +55,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-5.png"
+              src="./place-5.png"
               width={500}
               height={500}
               alt="Place 5"
@@ -66,7 +66,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-6.jpg"
+              src="./place-6.jpg"
               width={500}
               height={500}
               alt="Place 6"
@@ -77,7 +77,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-7.png"
+              src="./place-7.png"
               width={500}
               height={500}
               alt="Place 7"
@@ -88,7 +88,7 @@ const Location = () => {
           </div>
           <div className="flex flex-col text-center text-[20px] font-bold">
             <Image
-              src="/place-8.png"
+              src="./place-8.png"
               width={500}
               height={500}
               alt="Place 8"
