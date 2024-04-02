@@ -18,7 +18,7 @@ const Home = () => {
         <div className="flex items-center h-full">
           <div>
             <Image
-              src="/logo.gif"
+              src="./logo.gif"
               alt="Logo"
               width={700}
               height={1000}
